@@ -27,8 +27,8 @@ npm install
 5. User can navigate to the next page
 
 # Demo
-1. [Video](https://github.com/Brithrome/cypress-chai-Mocha/demo/video.mp4)
-2. [Screenshot](https://github.com/Brithrome/cypress-chai-Mocha/demo/screenshot.png)
+1. ![Video](https://github.com/Brithrome/cypress-chai-Mocha/demo/video.mp4)
+2. ![Screenshot](https://github.com/Brithrome/cypress-chai-Mocha/demo/screenshot.png)
 
 ## Authors
 
