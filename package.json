@@ -1,0 +1,18 @@
+{
+  "name": "hitachi-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "brithany romero",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.12.0"
+  },
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "cypress-xpath": "^2.0.1"
+  }
+}
