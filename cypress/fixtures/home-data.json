@@ -1,0 +1,8 @@
+{
+    "validResults": {
+        "term": "Developer"
+    },
+    "invalidResults": {
+        "term": "sasdfasdasdasdasdasdasd$#$@#$@#$"
+    }
+}
